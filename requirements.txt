@@ -1,0 +1,31 @@
+# Web and API
+fastapi
+uvicorn[standard]
+pydantic
+
+# Database
+SQLAlchemy
+PyMySQL
+mysqlclient
+alembic
+
+# Async
+aiomysql
+aiohttp
+
+# LiveKit
+livekit
+livekit-plugins
+
+# Twilio
+twilio
+
+# Environment and Configuration
+python-dotenv
+
+# Logging
+structlog
+
+# Development and Type Checking
+mypy
+typing-extensions
